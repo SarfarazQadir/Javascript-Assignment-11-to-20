@@ -302,3 +302,5 @@
 // for(var i = 1; i <= ui; i++){
 //     document.write(u*i,"<br>")
 // }
+
+// End
